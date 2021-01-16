@@ -1,3 +1,2 @@
 # Algorithm
-Typical questions
-a note
+just a note
